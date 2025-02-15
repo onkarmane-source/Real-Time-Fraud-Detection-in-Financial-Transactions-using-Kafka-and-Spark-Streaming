@@ -34,7 +34,7 @@ This project is designed to detect fraudulent transactions using Apache Kafka fo
 
 ### 🚀 Setup Instructions
 
-1. **Install Dependencies** (If running locally, not needed in Databricks)  
+1. **Install Dependencies** (If running locally pyspark needs to install not required in Databricks)  
    ```sh
    pip install confluent_kafka pymongo faker pyspark
    ```
