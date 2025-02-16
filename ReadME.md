@@ -55,7 +55,7 @@ A transaction is flagged as fraudulent if:
    fraud_score = transaction['amount'] / 5000
    return fraud_score > 0.8
    ```
-Any transaction where the amount exceeds 80% of ₹5000 is considered fraudulent.
+Any transaction where the amount exceeds 80% of $5000 is considered fraudulent.
 
 ### 📧 Email Alerts
 
